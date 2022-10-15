@@ -2,6 +2,7 @@
 
 ## part 1: simplest search engine
 ![Image](l3sc1.png)
+* Whenever a query containing "/add" appeared, I would add whatever string the user puts into the strs arraylist. When a query containing "/search" appeared, I would iterate through strs to try to find any string that contains the string that the user input and I would return that string. If they put an invalid ath, then "404 Not Found!" would be displayed. 
 
 ## part 2: bugs
 
