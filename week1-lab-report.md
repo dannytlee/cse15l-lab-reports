@@ -19,4 +19,12 @@
 
 ## setting an ssh key
 
-* I am having trouble logging into my own ieng6 account. 
+* to create an ssh-key, I used the command `ssh-keygen`
+![Image](l1sc5.png)
+
+* After copying the public key into my ieng6 account, I was able to log into my account without having to enter my very long password. 
+![Image](l1sc6.png)
+
+* I am also able to run single commands on my remote account with ease now that I can use the key instead of entering my password every time. 
+![Image](l1sc7.png)
+
