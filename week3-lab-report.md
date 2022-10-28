@@ -1,9 +1,18 @@
 # week 3 lab report
 
 ## part 1: simplest search engine
-![Image](l3sc1.png)
-* Whenever a query containing "/add" appeared, I would add whatever string the user puts into the strs arraylist. When a query containing "/search" appeared, I would iterate through strs to try to find any string that contains the string that the user input and I would return that string. If they put an invalid ath, then "404 Not Found!" would be displayed. While I was able to start the NumberServer, I had some trouble starting this search engine server.
+![Image](l3sc8.png)
+* Whenever a query containing "/add" appeared, I would add whatever string the user puts into the strs arraylist. When a query containing "/search" appeared, I would iterate through strs to try to find any string that contains the string that the user input and I would return that string. If they put an invalid ath, then "404 Not Found!" would be displayed. 
 
+![Image](l3sc13.png)
+* This is the message that appears when first openning the server
+![Image](l3sc9.png)
+![Image](l3sc10.png)
+![Image](l3sc11.png)
+* I added "trumpet", "pet", and "fish" into the list of words that the search engine can find
+![Image](l3sc12.png)
+
+* When searching for words containing "pet", both "trumpet" and "pet" appear as a result.
 ## part 2: bugs
 
 * This is my test for the filter method in the ListExamples.java file. 
