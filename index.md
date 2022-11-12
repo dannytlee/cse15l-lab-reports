@@ -6,5 +6,5 @@
 
 [Lab Report week 3](https://dannytlee.github.io/cse15l-lab-reports/week3-lab-report.html)
 
-[Lab Report week 5](https://dannytlee.github.io/cse15l-lab-reports/weekk5-lab-report.html)
+[Lab Report week 5](https://dannytlee.github.io/cse15l-lab-reports/week5-lab-report.html)
 
