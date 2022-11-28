@@ -10,3 +10,5 @@
 
 [Lab Report week 7](https://dannytlee.github.io/cse15l-lab-reports/week7-lab-report.html)
 
+[Lab Report 5](https://dannytlee.github.io/cse15l-lab-reports/Lab-report5.html)
+
