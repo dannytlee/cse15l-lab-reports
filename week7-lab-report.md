@@ -38,3 +38,5 @@
 * I would probably prefer to use vim because of the drastic difference in times required to make an edit and run the file. I was not used to controlling vim at first, but I became more adept at using it as the lab went on. I imagine if I were to use this tool everyday, I would be able to use it without thinking. 
 * What about the project or task might factor into your decision one way or another? (If nothing would affect your decision, say so and why!)
 * I think that the main factor would be the amount of edits that need to be made to the file. If there are just one or two lines that need to be changed, vim would probably be quicker. If there are many changes that need to be made or things that need to be added, using a text editor would likely be the better choice for its ease of use. 
+ 
+ * Some of the images do not appear when I use the website, but they appear when I am on this github rendered view. I tried fixing it, but I still do not know why this is happening.
