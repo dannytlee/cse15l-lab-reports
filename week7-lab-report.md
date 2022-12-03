@@ -32,3 +32,9 @@
   ![Image](w7sc22.png)
   
   ![Image](w7sc23.png)
+  
+  * Some more questions
+  * Which of these two styles would you prefer using if you had to work on a program that you were running remotely, and why?
+* I would probably prefer to use vim because of the drastic difference in times required to make an edit and run the file. I was not used to controlling vim at first, but I became more adept at using it as the lab went on. I imagine if I were to use this tool everyday, I would be able to use it without thinking. 
+  * What about the project or task might factor into your decision one way or another? (If nothing would affect your decision, say so and why!)
+  * I think that the main factor would be the amount of edits that need to be made to the file. If there are just one or two lines that need to be changed, vim would probably be quicker. If there are many changes that need to be made or things that need to be added, using a text editor would likely be the better choice for its ease of use. 
